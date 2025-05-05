@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"Zona_secreta",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":93.48,
+  "name":"Zona_secreta",
+  "parent":{
+    "name":"Music",
+    "path":"folders/Sonidos/Music.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"Zona_secreta.mp3",
+  "type":0,
+  "volume":1.0,
+}

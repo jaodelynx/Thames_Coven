@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"hacer_ataque",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"hacer_ataque",
+  "parent":{
+    "name":"Movimientos",
+    "path":"folders/Scripts/Movimientos.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"Aparicion_energ_a_maligna",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":4.061333,
+  "name":"Aparicion_energ_a_maligna",
+  "parent":{
+    "name":"Effects",
+    "path":"folders/Sonidos/Effects.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"Aparicion_energ_a_maligna.mp3",
+  "type":0,
+  "volume":1.0,
+}

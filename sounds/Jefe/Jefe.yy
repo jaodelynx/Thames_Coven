@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"Jefe",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":240.024,
+  "name":"Jefe",
+  "parent":{
+    "name":"Music",
+    "path":"folders/Sonidos/Music.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"Jefe.mp3",
+  "type":0,
+  "volume":1.0,
+}

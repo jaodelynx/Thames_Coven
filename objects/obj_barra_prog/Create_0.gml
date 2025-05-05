@@ -1,0 +1,1 @@
+barra_progreso = 0;

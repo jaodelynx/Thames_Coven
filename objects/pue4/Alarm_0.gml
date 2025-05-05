@@ -1,0 +1,1 @@
+promptMessage = "Presiona E para entrar"; 
