@@ -44,6 +44,7 @@ if (place_meeting(x, y + 1, obj_suelo)) {
 }
 
 // DAÑO AL JUGADOR (revisar colisiones con hurtboxes)
+
 with (obj_hurtbox) {
     if (place_meeting(x, y, other)) {  // Si la hurtbox colisiona con el jugador
         if (other.owner != noone) {  // Asegurarse de que el jugador existe
