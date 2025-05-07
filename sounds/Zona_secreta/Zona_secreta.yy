@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":93.48,
+  "duration":93.44,
   "name":"Zona_secreta",
   "parent":{
     "name":"Music",

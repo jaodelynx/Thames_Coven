@@ -250,6 +250,7 @@
     {"id":{"name":"Spr_oni_idle","path":"sprites/Spr_oni_idle/Spr_oni_idle.yy",},},
     {"id":{"name":"Spr_oni_Jump","path":"sprites/Spr_oni_Jump/Spr_oni_Jump.yy",},},
     {"id":{"name":"Spr_oni_walk","path":"sprites/Spr_oni_walk/Spr_oni_walk.yy",},},
+    {"id":{"name":"spr_paladin_mask","path":"sprites/spr_paladin_mask/spr_paladin_mask.yy",},},
     {"id":{"name":"spr_personaje_agacharse","path":"sprites/spr_personaje_agacharse/spr_personaje_agacharse.yy",},},
     {"id":{"name":"spr_personaje_ataquefuerte_agachado","path":"sprites/spr_personaje_ataquefuerte_agachado/spr_personaje_ataquefuerte_agachado.yy",},},
     {"id":{"name":"spr_personaje_ataquefuerte","path":"sprites/spr_personaje_ataquefuerte/spr_personaje_ataquefuerte.yy",},},

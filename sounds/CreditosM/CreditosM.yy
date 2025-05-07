@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":129.432,
+  "duration":36.477097,
   "name":"CreditosM",
   "parent":{
     "name":"Music",

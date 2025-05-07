@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":139.152,
+  "duration":139.15202,
   "name":"Cantos",
   "parent":{
     "name":"Music",

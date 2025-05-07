@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":219.24,
+  "duration":219.2,
   "name":"Menu",
   "parent":{
     "name":"Music",

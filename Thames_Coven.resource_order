@@ -185,6 +185,7 @@
     {"name":"Spr_oni_idle","order":1,"path":"sprites/Spr_oni_idle/Spr_oni_idle.yy",},
     {"name":"Spr_oni_Jump","order":2,"path":"sprites/Spr_oni_Jump/Spr_oni_Jump.yy",},
     {"name":"Spr_oni_walk","order":3,"path":"sprites/Spr_oni_walk/Spr_oni_walk.yy",},
+    {"name":"spr_paladin_mask","order":1,"path":"sprites/spr_paladin_mask/spr_paladin_mask.yy",},
     {"name":"spr_personaje_agacharse","order":1,"path":"sprites/spr_personaje_agacharse/spr_personaje_agacharse.yy",},
     {"name":"spr_personaje_ataquefuerte_agachado","order":2,"path":"sprites/spr_personaje_ataquefuerte_agachado/spr_personaje_ataquefuerte_agachado.yy",},
     {"name":"spr_personaje_ataquefuerte","order":3,"path":"sprites/spr_personaje_ataquefuerte/spr_personaje_ataquefuerte.yy",},

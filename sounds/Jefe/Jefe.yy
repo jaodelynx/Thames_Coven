@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":240.024,
+  "duration":240.0,
   "name":"Jefe",
   "parent":{
     "name":"Music",
